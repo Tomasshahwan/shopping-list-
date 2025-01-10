@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497945407054",
+    "project_id": "adele-90c22",
+    "storage_bucket": "adele-90c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497945407054:android:0827d703dbc61c3fd25d1f",
+        "android_client_info": {
+          "package_name": "com.example.pro2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRT6uOojVP1_YG7gDU5TJqS4ptYACNS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
